@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;httpmq&gt;">
+    <CLASSES>
+      <root url="file://D:/Go/packages/src/guozhou" />
+      <root url="file://D:/Go/packages/src/.idea" />
+      <root url="file://D:/Go/packages/src/cloud.gejoy.net" />
+      <root url="file://D:/Go/packages/src/sunhome" />
+      <root url="file://D:/Go/packages/src/google.golang.org" />
+      <root url="file://D:/Go/packages/src/gopkg.in" />
+      <root url="file://D:/Go/packages/src/pingpingche" />
+      <root url="file://D:/Go/packages/src/sanjia(冲突版本)" />
+      <root url="file://D:/Go/packages/src/mage" />
+      <root url="file://D:/Go/packages/src/xorm.io" />
+      <root url="file://D:/Go/packages/src/gejoy" />
+      <root url="file://D:/Go/packages/src/golang.org" />
+      <root url="file://D:/Go/packages/src/github.com" />
+      <root url="file://D:/Go/packages/src/sanjia" />
+      <root url="file://D:/Go/packages/src/banmaxinche" />
+      <root url="file://D:/Go/packages/src/shanmei" />
+      <root url="file://D:/Go/packages/src/donghai" />
+      <root url="file://D:/Go/packages/src/wechat-gateway" />
+      <root url="file://D:/Go/packages/src/smyc" />
+      <root url="file://D:/Go/packages/src/qiniupkg.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://D:/Go/packages/src/guozhou" />
+      <root url="file://D:/Go/packages/src/.idea" />
+      <root url="file://D:/Go/packages/src/cloud.gejoy.net" />
+      <root url="file://D:/Go/packages/src/sunhome" />
+      <root url="file://D:/Go/packages/src/google.golang.org" />
+      <root url="file://D:/Go/packages/src/gopkg.in" />
+      <root url="file://D:/Go/packages/src/pingpingche" />
+      <root url="file://D:/Go/packages/src/sanjia(冲突版本)" />
+      <root url="file://D:/Go/packages/src/mage" />
+      <root url="file://D:/Go/packages/src/xorm.io" />
+      <root url="file://D:/Go/packages/src/gejoy" />
+      <root url="file://D:/Go/packages/src/golang.org" />
+      <root url="file://D:/Go/packages/src/github.com" />
+      <root url="file://D:/Go/packages/src/sanjia" />
+      <root url="file://D:/Go/packages/src/banmaxinche" />
+      <root url="file://D:/Go/packages/src/shanmei" />
+      <root url="file://D:/Go/packages/src/donghai" />
+      <root url="file://D:/Go/packages/src/wechat-gateway" />
+      <root url="file://D:/Go/packages/src/smyc" />
+      <root url="file://D:/Go/packages/src/qiniupkg.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

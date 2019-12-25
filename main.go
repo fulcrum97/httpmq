@@ -127,9 +127,7 @@ func init() {
 
 func main() {
 	runtime.GOMAXPROCS(*cpu)
-
 	sync := &opt.WriteOptions{Sync: true}
-
 	putnamechan := make(chan string, 100)
 	putposchan := make(chan string, 100)
 	getnamechan := make(chan string, 100)
